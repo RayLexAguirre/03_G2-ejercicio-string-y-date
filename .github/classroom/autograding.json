@@ -1,0 +1,84 @@
+{
+  "tests": [
+    {
+      "name": "student.constructor()",
+      "setup": "npm install",
+      "run": "npm run test student.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 12
+    },
+    {
+      "name": "student.getFullName()",
+      "setup": "",
+      "run": "npm run test student.getFullName.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 12
+    },
+    {
+      "name": "student.getInitials()",
+      "setup": "",
+      "run": "npm run test student.getInitials.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 12
+    },
+    {
+      "name": "student.getFullNameCapitalized()",
+      "setup": "",
+      "run": "npm run test student.getFullNameCapitalized.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 12
+    },
+    {
+      "name": "student.getAge()",
+      "setup": "",
+      "run": "npm run test student.getAge.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 13
+    },
+    {
+      "name": "student.getDayOfBirth()",
+      "setup": "",
+      "run": "npm run test student.getDayOfBirth.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 13
+    },
+    {
+      "name": "student.getBirthDateFormatted()",
+      "setup": "",
+      "run": "npm run test student.getBirthDateFormatted.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 13
+    },
+    {
+      "name": "student.isValidEmail()",
+      "setup": "",
+      "run": "npm run test student.isValidEmail.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 13
+    }
+  ]
+}
